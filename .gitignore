@@ -1,0 +1,13 @@
+.DS_Store
+.vscode
+.idea
+DNN/v2/ckpt
+DNN/v3/ckpt
+DNN/v3/log
+make_data_set/data_set
+
+__pycache__
+
+*.gz
+venv/
+*.cfg
